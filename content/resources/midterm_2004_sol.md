@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a3e3c0ae-554e-7a6f-9c7c-e733fa7d88ac
 resourcetype: Document
 title: midterm_2004_sol.pdf
 uid: f921917b-96e8-8f88-3260-68b29e909b6c

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a3e3c0ae-554e-7a6f-9c7c-e733fa7d88ac
 resourcetype: Document
 title: final_2004_sol.pdf
 uid: 8ae04d98-55ac-77fb-5d9f-bde25e38b47b
