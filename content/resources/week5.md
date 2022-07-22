@@ -7,6 +7,7 @@ file: /courses/11-128-information-technology-and-the-labor-market-spring-2005/e7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: week5.pdf
 uid: e7daddc1-4b15-ef1f-00f3-101d0db48499
 ---
 The resource discusses that computers are strongest in performing those tasks where the required information processing can be described in rules-based logic.
-

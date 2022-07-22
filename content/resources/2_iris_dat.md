@@ -5,6 +5,7 @@ file: /courses/11-128-information-technology-and-the-labor-market-spring-2005/47
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2_iris_dat.pdf
 uid: 47ff87c0-4e10-f9d6-a38f-a5682e602ded
 ---
 The resource provides the data set to be used in problem set 2.
-

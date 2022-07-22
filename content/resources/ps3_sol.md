@@ -5,6 +5,7 @@ file: /courses/11-128-information-technology-and-the-labor-market-spring-2005/69
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps3_sol.pdf
 uid: 6985b5fa-f74f-8076-afca-549c7d747757
 ---
 The resource provides solutions to the problems in problem set 3.
-

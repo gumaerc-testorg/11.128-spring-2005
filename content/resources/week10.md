@@ -6,6 +6,7 @@ file: /courses/11-128-information-technology-and-the-labor-market-spring-2005/fd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: week10.pdf
 uid: fd3fcb90-94ee-f917-e3f4-caed83d3109d
 ---
 The resource provides information about the the debate over the role of computers in the post 1996 revival of productivity.
-

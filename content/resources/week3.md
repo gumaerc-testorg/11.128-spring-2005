@@ -5,6 +5,7 @@ file: /courses/11-128-information-technology-and-the-labor-market-spring-2005/f5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: week3.pdf
 uid: f5832be0-a51c-6d3b-1c00-f86d0fce32e3
 ---
 The resource explores skill-biased technical change in a greater detail.
-
