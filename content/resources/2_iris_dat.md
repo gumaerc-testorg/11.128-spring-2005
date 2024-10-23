@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The resource provides the data set to be used in problem set 2.
-file: /courses/11-128-information-technology-and-the-labor-market-spring-2005/47ff87c04e10f9d6a38fa5682e602ded_2_iris_dat.pdf
+file: /ol-ocw-studio-app/courses/11-128-information-technology-and-the-labor-market-spring-2005/47ff87c04e10f9d6a38fa5682e602ded_2_iris_dat.pdf
 file_size: 31027
 file_type: application/pdf
 learning_resource_types:
