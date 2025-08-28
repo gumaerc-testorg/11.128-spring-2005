@@ -2,7 +2,7 @@
 content_type: resource
 description: The resource provides information about information processing tasks
   that computer can do better than humans and attempts to model the computers's impact.
-file: /courses/11-128-information-technology-and-the-labor-market-spring-2005/518fbc49dfcc7e9ddbff334b40386944_week1.pdf
+file: /ol-ocw-studio-app/courses/11-128-information-technology-and-the-labor-market-spring-2005/518fbc49dfcc7e9ddbff334b40386944_week1.pdf
 file_size: 50590
 file_type: application/pdf
 learning_resource_types:
