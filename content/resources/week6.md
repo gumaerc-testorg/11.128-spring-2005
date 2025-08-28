@@ -2,7 +2,7 @@
 content_type: resource
 description: The resource provides information about Expert Systems, Machine Learning,
   Speech Recognition, and Machine Vision .
-file: /courses/11-128-information-technology-and-the-labor-market-spring-2005/b144e9f32edde045655d0fc9b75fab85_week6.pdf
+file: /ol-ocw-studio-app/courses/11-128-information-technology-and-the-labor-market-spring-2005/b144e9f32edde045655d0fc9b75fab85_week6.pdf
 file_size: 59077
 file_type: application/pdf
 learning_resource_types:
